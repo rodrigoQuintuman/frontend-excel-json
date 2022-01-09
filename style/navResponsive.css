@@ -1,0 +1,15 @@
+#item-user {
+    margin-right: 20px;
+    margin-left: 50px;
+  }
+
+  @media (max-width: 769px) {
+    li {
+      width: 100%;
+      text-align: center;
+    }
+    #item-user {
+      margin-right: 0px;
+      margin-left: 0px;
+    }
+  }
